@@ -3,4 +3,10 @@
 It contains features like:
 CREATE, UPDATE & DELETE
 
-You'll also see the JWT Authentication.
+Tech Used:
+
+React JS
+Symfony Framework
+CORE UI
+JWT
+MYSQL
