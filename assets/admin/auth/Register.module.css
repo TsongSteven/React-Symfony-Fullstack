@@ -1,0 +1,27 @@
+.formdiv{
+    margin-top: 10px;
+}
+
+.addpostinputs{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    border: 1px solid rebeccapurple;
+}
+.btn{
+    font: inherit;
+    color: #ffffff;
+    border: 1px solid #77002e;
+    background-color: #77002e;
+    padding: 10px 10px;
+}
+
+.btn:hover{
+    color: #000000;
+    border: 1px solid #77002e;
+    background-color: transparent;   
+}
+
+.loginFormWrapper{
+    padding: 10px;
+}
