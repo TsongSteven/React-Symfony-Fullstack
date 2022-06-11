@@ -5,8 +5,8 @@ CREATE, UPDATE & DELETE
 
 Tech Used:
 
-React JS
-Symfony Framework
-CORE UI
-JWT
-MYSQL
+<b>React JS</b><br>
+<b>Symfony Framework</b><br>
+<b>CORE UI</b><br>
+<b>JWT</b><br>
+<b>MYSQL</b>
